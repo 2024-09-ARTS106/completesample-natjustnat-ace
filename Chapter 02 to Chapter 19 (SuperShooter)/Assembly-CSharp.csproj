@@ -62,45 +62,86 @@
   <ItemGroup>
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\Pause.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\EnemiesUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Chapter 11 (CSharp)\Scripts\ExplosionOnDeath.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\WavesUI.cs" />
     <Compile Include="Assets\Chapter 19\Pool.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\ForwardMovement.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\WaveSpawner.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Chapter 07 (CSharp)\Scripts\Life.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerShooting_OldInput.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Chapter 11 (CSharp)\Scripts\PlayerShooting_Chapter11.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\VelocityAnimator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\ContactDamager_Chapter8.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\MouseController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\EnemyFSM_Chapter17.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WaveSpawner_Chapter17.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\PlayerShooting_Chapter15.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\LifeBar.cs" />
     <Compile Include="Assets\Chapter 14 (CSharp)\Scripts\PlayerShooting_Chapter14.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\PlayerShooting_Chapter17.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\ParticleSortingLayerFIx.cs" />
     <Compile Include="Assets\Chapter 11 (CSharp)\Scripts\EnemyFSM_Chapter11.cs" />
     <Compile Include="Assets\Chapter 07 (CSharp)\Scripts\ContactDamager.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\PlayerBulletsUI.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\QuitButton.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\PlayerBulletsUI_Chapter17.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\ScoreOnDeath.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\EnemyFSM_Chapter15.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\ScoreUI.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\ParallaxScroll.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\Autodestroy.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerMovement_NewInput.cs" />
     <Compile Include="Assets\Chapter 09 (CSharp)\Scripts\Sight.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Chapter 07 (CSharp)\Scripts\ContactDestroyer.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Chapter 09 (CSharp)\Scripts\EnemyFSM.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\LaserScript.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\loadscene.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Chapter 14 (CSharp)\Scripts\EnemyFSM_Chapter14.cs" />
     <Compile Include="Assets\Chapter 07 (CSharp)\Scripts\PlayerMovement_Chapter7.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnableCursor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerMovement_OldInput.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesGameMode.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Enemy.cs" />
+    <Compile Include="Assets\RocketMouse\Scripts\GeneratorScript.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Life_Chapter8.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\NavMeshAnimator.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerShooting_NewInput.cs" />
   </ItemGroup>
@@ -109,24 +150,32 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\csc.rsp" />
     <None Include="Assets\DemoNote.txt" />
+    <None Include="Assets\Gentleland\SteampunkUI\Fonts\Environment Maps\cc0.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Chapter 16\GameHUD.uxml" />
+    <None Include="Assets\Gentleland\SteampunkUI\ThirdPartyLicenses\RobotoSlab Font License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Gentleland\SteampunkUI\ThirdPartyLicenses\Arvo Font License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Chapter 14 (CSharp)\explosionsoundslite\readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Chapter 12\AllSkyFree\AllSkyFree_Readme.txt" />
+    <None Include="Assets\Gentleland\SteampunkUI\Fonts\BebasNeue\OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Gentleland\SteampunkUI\Fonts\RobotoSlab\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Gentleland\SteampunkUI\Fonts\Arvo\OFL.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Gentleland\SteampunkUI\ThirdPartyLicenses\Environment Maps cc0.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Chapter 16\GameUSS.uss" />
+    <None Include="Assets\Gentleland\SteampunkUI\ThirdPartyLicenses\BebasNeue Font License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
@@ -1173,6 +1222,14 @@
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{70BD7360-BFD6-EA7B-577D-DCA42896B9B0}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="Gentleland.SteampunkUI.DemoAndExample.csproj">
+      <Project>{40358DD8-56A3-CD02-31D8-21E09C456719}</Project>
+      <Name>Gentleland.SteampunkUI.DemoAndExample</Name>
+    </ProjectReference>
+    <ProjectReference Include="Gentleland.Utils.SteampunkUI.csproj">
+      <Project>{09C1446A-45AF-A7BD-9AAE-952EB688C512}</Project>
+      <Name>Gentleland.Utils.SteampunkUI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

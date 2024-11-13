@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{70BD7360-BFD6-EA7B-577D-DCA42896B9B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentleland.Utils.SteampunkUI", "Gentleland.Utils.SteampunkUI.csproj", "{09C1446A-45AF-A7BD-9AAE-952EB688C512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentleland.SteampunkUI.DemoAndExample", "Gentleland.SteampunkUI.DemoAndExample.csproj", "{40358DD8-56A3-CD02-31D8-21E09C456719}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{986A2F34-29F1-CC0C-8853-762C97E956D3}"
 EndProject
 Global
@@ -21,6 +25,14 @@ Global
 		{70BD7360-BFD6-EA7B-577D-DCA42896B9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70BD7360-BFD6-EA7B-577D-DCA42896B9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70BD7360-BFD6-EA7B-577D-DCA42896B9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C1446A-45AF-A7BD-9AAE-952EB688C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C1446A-45AF-A7BD-9AAE-952EB688C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C1446A-45AF-A7BD-9AAE-952EB688C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C1446A-45AF-A7BD-9AAE-952EB688C512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40358DD8-56A3-CD02-31D8-21E09C456719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40358DD8-56A3-CD02-31D8-21E09C456719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40358DD8-56A3-CD02-31D8-21E09C456719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40358DD8-56A3-CD02-31D8-21E09C456719}.Release|Any CPU.Build.0 = Release|Any CPU
 		{986A2F34-29F1-CC0C-8853-762C97E956D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{986A2F34-29F1-CC0C-8853-762C97E956D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986A2F34-29F1-CC0C-8853-762C97E956D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
