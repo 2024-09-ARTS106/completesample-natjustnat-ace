@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EC18446-96F0-554C-0286-43050CE83777}|Assembly-CSharp.csproj|c:\\users\\g00320757\\documents\\github\\completesample-natjustnat-ace\\chapter 02 to chapter 19 (supershooter)\\assets\\firefire\\switchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09C1446A-45AF-A7BD-9AAE-952EB688C512}|Gentleland.Utils.SteampunkUI.csproj|c:\\users\\g00320757\\documents\\github\\completesample-natjustnat-ace\\chapter 02 to chapter 19 (supershooter)\\assets\\gentleland\\steampunkui\\utils\\editor\\welcomewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C1446A-45AF-A7BD-9AAE-952EB688C512}|Gentleland.Utils.SteampunkUI.csproj|solutionrelative:assets\\gentleland\\steampunkui\\utils\\editor\\welcomewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C1446A-45AF-A7BD-9AAE-952EB688C512}|Gentleland.Utils.SteampunkUI.csproj|C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\assets\\gentleland\\steampunkui\\utils\\editor\\openwindowsonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C1446A-45AF-A7BD-9AAE-952EB688C512}|Gentleland.Utils.SteampunkUI.csproj|solutionrelative:assets\\gentleland\\steampunkui\\utils\\editor\\openwindowsonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC18446-96F0-554C-0286-43050CE83777}|Assembly-CSharp.csproj|C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\assets\\firefire\\switchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC18446-96F0-554C-0286-43050CE83777}|Assembly-CSharp.csproj|solutionrelative:assets\\firefire\\switchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,11 +34,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "WelcomeWindow.cs",
+              "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\WelcomeWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\WelcomeWindow.cs",
+              "ToolTip": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\WelcomeWindow.cs",
+              "RelativeToolTip": "Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\WelcomeWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:25:54.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenWindowsOnLoad.cs",
+              "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "ToolTip": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "RelativeToolTip": "Assets\\Gentleland\\SteampunkUI\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:25:39.609Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "notescript.cs",
               "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\notescript.cs",
               "RelativeDocumentMoniker": "Assets\\notescript.cs",
@@ -42,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Switch.cs",
               "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\FireFire\\Switch.cs",
               "RelativeDocumentMoniker": "Assets\\FireFire\\Switch.cs",
@@ -54,20 +91,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SwitchManager.cs",
               "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\FireFire\\SwitchManager.cs",
               "RelativeDocumentMoniker": "Assets\\FireFire\\SwitchManager.cs",
               "ToolTip": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\FireFire\\SwitchManager.cs",
               "RelativeToolTip": "Assets\\FireFire\\SwitchManager.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAXAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:34:24.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T16:34:24.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InteractableCam.cs",
               "DocumentMoniker": "C:\\Users\\g00320757\\Documents\\GitHub\\completesample-natjustnat-ace\\Chapter 02 to Chapter 19 (SuperShooter)\\Assets\\FireFire\\InteractableCam.cs",
               "RelativeDocumentMoniker": "Assets\\FireFire\\InteractableCam.cs",
